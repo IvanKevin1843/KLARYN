@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KLARYN - Productos de Limpieza</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e8f5e9;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #1b5e20;
+            color: white;
+            padding: 20px 0;
+            font-size: 2em;
+        }
+        p {
+            font-size: 1.2em;
+            margin: 20px auto;
+            max-width: 600px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>KLARYN</header>
+    <img src="https://drive.google.com/uc?export=view&id=1ltzqn12AijwWTOuUMcHswwMY_21DrJxR" alt="Imagen de productos KLARYN">
+    <p>Bienvenido a KLARYN, tu mejor opción en productos de limpieza. Calidad, frescura y cuidado para tu hogar.</p>
+</body>
+</html>
